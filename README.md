@@ -18,7 +18,7 @@ DeepDream enhances patterns in images by maximizing neuron activations, resultin
 ```bash
 # Clone the repository
 git clone https://github.com/faisal-ajao/deep-dream.git
-cd deep_dream
+cd deep-dream
 
 # Create a virtual environment (optional)
 python -m venv venv
@@ -59,7 +59,7 @@ Example with **cat.jpg**:
 
 ## 📂 Project Structure
 ```
-deep_dream/
+deep-dream/
 ├── assets/                    # Generated dream images
 │   ├── cat_dream.png
 │   ├── elephant_dream.png
