@@ -17,7 +17,7 @@ DeepDream enhances patterns in images by maximizing neuron activations, resultin
 
 ```bash
 # Clone the repository
-git clone https://github.com/faisal-ajao/deep_dream.git
+git clone https://github.com/faisal-ajao/deep-dream.git
 cd deep_dream
 
 # Create a virtual environment (optional)
