@@ -36,13 +36,13 @@ pip install -r requirements.txt
 Run the main script to generate a DeepDream image:
 
 ```bash
-python deep_dream.py
+python main.py
 ```
 
 Or experiment interactively with the Jupyter notebook:
 
 ```bash
-jupyter notebook deep_dream.ipynb
+jupyter notebook main.ipynb
 ```
 
 ---
@@ -65,8 +65,8 @@ deep-dream/
 │   ├── elephant_dream.png
 │   ├── golden_gate_bridge_dream.png      
 │   └── human_dream.png
-├── deep_dream.ipynb           # Notebook version
-├── deep_dream.py              # Script version
+├── main.ipynb           # Notebook version
+├── main.py              # Script version
 ├── inputs/                    # Input images
 │   ├── cat.jpg
 │   ├── elephant.jpg
